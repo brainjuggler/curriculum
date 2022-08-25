@@ -1,14 +1,14 @@
 @media screen and (max-width: 767px) {
   .header {
-    display: none;
+    /* display: none; */
     width: 250px;
   }
   .right {
-    display: none;
+    /* display: none; */
     width: 100px;
   }
   .footer {
-    display: none;
+    /* display: none; */
     width: 250px;
   }
 }
